@@ -14,6 +14,7 @@ from .language import _
 from .constants import *
 from streamotion.constants import *
 from random import randint
+from time import sleep
 
 api = API()
 
